@@ -1,0 +1,55 @@
+.ab{
+    position: static;
+    flex-direction: column;
+    z-index: 2;
+    background-color: aliceblue;
+    margin-top: 90px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+    width: 80%;
+    height: auto;
+    min-height: 600px;  
+    padding: 20px 50px;
+    background-color: #212529;
+    border: 0.15em solid hsl(186 100% 69%);
+    border-radius: 1em;
+    text-align: center;
+    color: aliceblue;
+}
+.ba{
+    /* background-image: url("./res/stars-1845140.jpg"); */
+    /* background-image: url("./res/pexels-pixabay-220201.jpg"); */
+    /* background-image: url("./res/pexels-drift-shutterbug-2085998.jpg"); */
+    background-image: url("./res/olivier-miche-OZACaaUskhg-unsplash.jpg");
+    width: 100%;
+    min-height: 600px;
+    height: auto;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    min-height: 800px;
+    text-align: center;
+}
+
+.p{
+    
+    height: 400px;
+    width: auto;
+    border-radius: 100%;
+    margin-top: 50px;
+    opacity: 0.5;
+}
+.k{
+    background-image: url("./res/design-a-captivating-space-themed-wallpaper-for-a-high-quality-web-page-background-that-transports-v-883548741.png");
+
+    width: 100%;
+    min-height: 600px;
+    
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; 
+    /* Do not repeat the image */
+    background-size: cover;
+    height: 1524px;
+    text-align: center;
+}
